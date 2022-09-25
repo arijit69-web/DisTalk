@@ -4,7 +4,9 @@
   "description": "Group Chat App",
   "main": "server.js",
   "scripts": {
-    "test": "nodemon server.js"
+    "test": "nodemon server.js",
+    "start":"node server.js"
+
   },
   "author": "",
   "license": "ISC",
