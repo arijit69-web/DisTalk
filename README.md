@@ -19,6 +19,16 @@ It may take some time to open
 ```
 ## Screenshots of the Website :
 
+Desktop view :
+
+<img width="960" alt="pic-1" src="https://user-images.githubusercontent.com/60184336/192136786-e689da2f-9879-4ea8-886c-866649cfedad.PNG">
+
+<img width="741" alt="pic-2" src="https://user-images.githubusercontent.com/60184336/192136778-1740d6eb-4b10-4a24-bfa0-af07c9443966.PNG">
+
+Mobile view :
+
+![pic-3](https://user-images.githubusercontent.com/60184336/192136838-812fe65f-dde4-4c60-8f99-2389c177d2c9.jpg)
+
 
 
 
