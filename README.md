@@ -13,10 +13,7 @@ The aim of the project is to create a  realtime Chat Application where multiple 
 - ExpressJS
 - Socket.io 
 ```
-## Link of the Website: [DisTalk ChatApp](https://distalk-v1.herokuapp.com/)
-```
-It may take some time to open
-```
+
 ## Screenshots of the Website :
 
 Desktop view :
