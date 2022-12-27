@@ -18,9 +18,7 @@ The aim of the project is to create a  realtime Chat Application where multiple 
 
 Desktop view :
 
-<img width="960" alt="pic-1" src="https://user-images.githubusercontent.com/60184336/192136786-e689da2f-9879-4ea8-886c-866649cfedad.PNG">
-
-<img width="741" alt="pic-2" src="https://user-images.githubusercontent.com/60184336/192136778-1740d6eb-4b10-4a24-bfa0-af07c9443966.PNG">
+<img width="958" alt="Capture2" src="https://user-images.githubusercontent.com/60184336/209706168-2434f238-e864-4af0-881b-ceed46ad458f.PNG">
 
 Mobile view :
 
