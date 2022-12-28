@@ -1,4 +1,4 @@
-# DisTalk ChatApp
+# DisTalk Chat App
 
 ## Aim:
 The aim of the project is to create a  realtime Chat Application where multiple users can have chat with each other. It is made up of two applications - the client application, which runs on the user
