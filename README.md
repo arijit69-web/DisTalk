@@ -16,11 +16,11 @@ The aim of the project is to create a  realtime Chat Application where multiple 
 
 ## Screenshots of the Website :
 
-Desktop view :
+1. Desktop view 
 
 <img width="970" alt="Capture2" src="https://user-images.githubusercontent.com/60184336/209706377-e8058466-3cae-4da3-80e0-034578dbac71.PNG">
 
-Mobile view :
+2. Mobile view 
 
 ![pic-3](https://user-images.githubusercontent.com/60184336/192136838-812fe65f-dde4-4c60-8f99-2389c177d2c9.jpg)
 
