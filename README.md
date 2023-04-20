@@ -9,7 +9,6 @@ The aim of the project is to create a  realtime Chat Application where multiple 
 - HTML5
 - CSS3
 - Javascript
-- NodeJS
 - ExpressJS
 - Socket.io 
 ```
