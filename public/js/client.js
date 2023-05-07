@@ -27,14 +27,14 @@ function userJoinLeft(name, status) {
   // create a new <div> element
   let div = document.createElement("div");
 
-  //user-join name ki class add karo so that yaha new <div> main same styling lag jai as 'user-join' class
+  // user-join name ki class add karo so that yaha new <div> main same styling lag jai as 'user-join' class
   div.classList.add("user-join");
-  //content that we will display in the <div>
+  // content that we will display in the <div>
   let content = `<p><b>${name}</b> ${status} the chat</p>`;
   div.innerHTML = content; //div ke ander kya likha hoga add kardo in form of HTML
-  //jabhi koi neya user join hoga ek new div create hoke content add hoga and chats query Selector main append hojaiga new div
+  // jabhi koi neya user join hoga ek new div create hoke content add hoga and chats query Selector main append hojaiga new div
   chats.appendChild(div);
-  //jabhi koi neya message aye screen upar chalte jai and neya message neeche ate jai
+  // jabhi koi neya message aye screen upar chalte jai and neya message neeche ate jai
   chats.scrollTop = chats.scrollHeight;
 }
 
@@ -51,11 +51,11 @@ socket.on("user-list", (users) => {
   // values nikal rahe hai users ke and values = user's name store kar rahe hai in users_arr
   users_arr = Object.values(users);
   for (i = 0; i < users_arr.length; i++) {
-    //creating a <p> tag
+    // creating a <p> tag
     let p = document.createElement("p");
     // har bar har name ke liye ek <p> tag banega and inner text hojaiga user's name jo array main store hai
     p.innerText = users_arr[i];
-    //users_list <div> class mai values bhara do ek ek name
+    // users_list <div> class mai values bhara do ek ek name
     users_list.appendChild(p);
   }
   users_count.innerHTML = users_arr.length;
@@ -76,7 +76,7 @@ msg_send.addEventListener("click", () => {
     appendMessage(data, "outgoing"); // outgoing taki pata chale message bhej rahe hai
     // server ko emit/message kardo ki ek data/message arha hai
     socket.emit("message", data);
-    //user input field value blank kardo
+    // user input field value blank kardo
     user_msg.value = "";
   }
 });
