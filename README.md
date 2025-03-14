@@ -17,6 +17,9 @@ This project is a **real-time chat application** that allows multiple users to c
 
 <img width="970" alt="Capture2" src="https://user-images.githubusercontent.com/60184336/209706377-e8058466-3cae-4da3-80e0-034578dbac71.PNG">
 
+<img width="970" alt="Capture3" src="https://github.com/user-attachments/assets/12449182-7fe3-4663-94b2-cc2341446817">
+
+
 ### 2. Mobile view 
 
 ![pic-3](https://user-images.githubusercontent.com/60184336/192136838-812fe65f-dde4-4c60-8f99-2389c177d2c9.jpg)
