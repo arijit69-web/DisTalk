@@ -87,7 +87,6 @@ io.on("connection", (socket) => {
 
   socket.on("message", (data) => {
     let filteredMsg = trie.containsBadWord(data.msg.toLowerCase());
-    console.log(`Original: ${data.msg} | Filtered: ${filteredMsg}`);
     socket.broadcast.emit("message", { user: data.user, msg: filteredMsg });
   });
 });
